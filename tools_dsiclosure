@@ -1,0 +1,36 @@
+# AI & Tool Usage Disclosure
+
+This project combined hands-on data analysis with AI assistance and external tools to drive deeper insights and efficient storytelling.
+
+### Tools and Platforms Used:
+
+- Python (Pandas, Matplotlib, Seaborn, Regex)  
+  For cleaning, transformation, emoji sentiment tagging, and trend analysis.
+
+- Jupyter Notebook  
+  For iterative coding, exploration, and visual testing.
+
+- ChatGPT (OpenAI GPT-4o)  
+  Used for:
+  - Brainstorming analysis workflows and visual ideas
+  - Generating and refining Python scripts
+  - Drafting slide content and actionable insights
+  - Structuring documentation (README, this disclosure)
+
+- Perplexity AI  
+  Used for independent research and understanding Instagram engagement strategies, benchmark practices, and post timing effects.
+
+- Instagram (Public Page - @treehut)  
+  Used to manually review context and tone of the brand's content and user behavior around posts.
+
+- Tableau (Exploratory Use)  
+  Used to test visualizations and explore trends in comments, post frequency, and user engagement.
+
+- PowerPoint  
+  Used for designing the final stakeholder presentation with charts, summaries, and insights from the analysis.
+
+---
+
+All final decisions, analysis interpretations, and outputs were manually reviewed and verified by the project owner (Shikha Soneji).
+
+This disclosure ensures transparency in the use of AI and supporting tools for enhanced productivity and creativity.
